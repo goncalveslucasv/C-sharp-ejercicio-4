@@ -1,4 +1,4 @@
-# C SHARP Ejercicio-4
+# C SHARP Ejercicio 4
 ## Universidad Abierta Interamericana (UAI) - POO
 Un after office vende diferentes tipos de cerveza tiradas de barril, las mismas se describen a
 continuación:
