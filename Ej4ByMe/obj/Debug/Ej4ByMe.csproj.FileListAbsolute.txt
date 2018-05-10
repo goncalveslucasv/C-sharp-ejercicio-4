@@ -1,0 +1,12 @@
+C:\Users\casVicente.Goncalves\Desktop\Ej4ByMe\Ej4ByMe\bin\Debug\Ej4ByMe.exe.config
+C:\Users\casVicente.Goncalves\Desktop\Ej4ByMe\Ej4ByMe\bin\Debug\Ej4ByMe.exe
+C:\Users\casVicente.Goncalves\Desktop\Ej4ByMe\Ej4ByMe\bin\Debug\Ej4ByMe.pdb
+C:\Users\casVicente.Goncalves\Desktop\Ej4ByMe\Ej4ByMe\obj\Debug\Ej4ByMe.csprojResolveAssemblyReference.cache
+C:\Users\casVicente.Goncalves\Desktop\Ej4ByMe\Ej4ByMe\obj\Debug\Ej4ByMe.Form1.resources
+C:\Users\casVicente.Goncalves\Desktop\Ej4ByMe\Ej4ByMe\obj\Debug\Ej4ByMe.Properties.Resources.resources
+C:\Users\casVicente.Goncalves\Desktop\Ej4ByMe\Ej4ByMe\obj\Debug\Ej4ByMe.csproj.GenerateResource.cache
+C:\Users\casVicente.Goncalves\Desktop\Ej4ByMe\Ej4ByMe\obj\Debug\Ej4ByMe.csproj.CoreCompileInputs.cache
+C:\Users\casVicente.Goncalves\Desktop\Ej4ByMe\Ej4ByMe\obj\Debug\Ej4ByMe.exe
+C:\Users\casVicente.Goncalves\Desktop\Ej4ByMe\Ej4ByMe\obj\Debug\Ej4ByMe.pdb
+C:\Users\casVicente.Goncalves\Desktop\Ej4ByMe\Ej4ByMe\obj\Debug\Ej4ByMe.frmBarriles.resources
+C:\Users\casVicente.Goncalves\Desktop\Ej4ByMe\Ej4ByMe\obj\Debug\Ej4ByMe.frmVenta.resources
